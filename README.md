@@ -1,0 +1,2 @@
+# parcijalni
+Parcijalni ispit
